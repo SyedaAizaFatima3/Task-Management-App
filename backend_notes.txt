@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is main branch backend design
+=======
+"Backend logic for To-Do app" 
+Implemented Backend Design by Shaffan Asher.
+>>>>>>> backend
