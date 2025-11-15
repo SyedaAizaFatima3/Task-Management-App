@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is design layout on branch Main by Syeda Aiza
+=======
+"Added UI/UX design plan by wassam"
+>>>>>>> design
